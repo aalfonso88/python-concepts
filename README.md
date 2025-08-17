@@ -1,2 +1,2 @@
 # python-concepts
-Small pieces of software for learning-by-doing software programming concepts using Python
+Small pieces of code for learning-by-doing software programming concepts using Python
